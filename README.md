@@ -1,2 +1,0 @@
-# ReactObservablePattern
-Created with CodeSandbox
